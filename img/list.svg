@@ -1,0 +1,11 @@
+<svg width="66" height="81" viewBox="0 0 66 81" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="11" y="16.5" width="55" height="64" rx="7" fill="#A5D6A7"/>
+<path d="M45 9.5H54C57.3137 9.5 60 12.1863 60 15.5V52.5112V53.5" stroke="#18193F" stroke-width="5"/>
+<path d="M18 9.5H9C5.68629 9.5 3 12.1863 3 15.5V29.5" stroke="#18193F" stroke-width="5"/>
+<path d="M3 36V67C3 70.3137 5.68629 73 9 73H54C57.3137 73 60 70.3137 60 67V60.5" stroke="#18193F" stroke-width="5"/>
+<path d="M16 42L24.3799 49.9809C25.5591 51.1039 27.4188 51.0812 28.5702 49.9298L45.5 33" stroke="#18193F" stroke-width="5"/>
+<ellipse cx="45.634" cy="32.8005" rx="2.46566" ry="2.21946" transform="rotate(40.635 45.634 32.8005)" fill="#18193F"/>
+<path d="M17.7017 43.5668C16.7766 44.5798 15.2143 44.6592 14.2123 43.7441C13.2102 42.829 13.1479 41.266 14.073 40.2529C14.9981 39.2399 16.7972 39.3582 17.7993 40.2733C18.979 41.4363 18.6268 42.5538 17.7017 43.5668Z" fill="#18193F"/>
+<rect x="17.5" y="2.5" width="27" height="10" rx="4.5" fill="white" stroke="#18193F" stroke-width="5"/>
+<rect x="27" width="9" height="7" fill="white"/>
+</svg>

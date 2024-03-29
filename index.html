@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do List</title>
+    <link rel="stylesheet" href="styles/style.css" />
+    <link rel="stylesheet" href="styles/normilize.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,700;0,900;1,400&family=Montserrat:ital,wght@0,400;0,700;0,900;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <main class="app">
+		<section class="greeting" id="header">
+			<h2 class="title">
+				Здравствуйте, <input type="text" id="name" placeholder="Ваше имя" />
+			</h2>
+		</section>
+
+        <section class="create-todo">
+			<h3>СОЗДАТЬ ЗАДАЧУ</h3>
+			<form id="new-todo-form">
+				<h4>Что у вас в списке дел?</h4>
+				<input type="text" placeholder="снять видео" name="content" id="content"/>
+                <input id="add" type="submit" value="Добавить" />
+            </form>
+        </section>
+
+        <section class="todo-list">
+			<h3>TODO LIST</h3>
+			<div class="list" id="todo-list">
+                <ul id="list-container">
+                </ul>
+            </div>
+		</section>
+	</main>
+
+	<script src="script.js"></script>
+</body>
+</html>
